@@ -1,0 +1,66 @@
+{"level":"info","message":"🚀 Initializing Unified Security Framework...","service":"unified-security-framework","timestamp":"2025-10-12T12:01:38.121Z"}
+{"level":"info","message":"✅ DATABASE module started","service":"unified-security-framework","timestamp":"2025-10-12T12:01:38.136Z"}
+{"level":"info","message":"✅ TUNNELS module started","service":"unified-security-framework","timestamp":"2025-10-12T12:01:38.137Z"}
+{"level":"info","message":"✅ C2 module started","service":"unified-security-framework","timestamp":"2025-10-12T12:01:38.204Z"}
+{"level":"info","message":"✅ PHISHING module started","service":"unified-security-framework","timestamp":"2025-10-12T12:01:38.215Z"}
+{"level":"info","message":"✅ SOCIAL module started","service":"unified-security-framework","timestamp":"2025-10-12T12:01:38.215Z"}
+{"level":"info","message":"✅ OSINT module started","service":"unified-security-framework","timestamp":"2025-10-12T12:01:38.216Z"}
+{"level":"info","message":"✅ STEGANOGRAPHY module started","service":"unified-security-framework","timestamp":"2025-10-12T12:01:38.216Z"}
+{"level":"info","message":"🤖 AI Monitor started","service":"unified-security-framework","timestamp":"2025-10-12T12:01:38.222Z"}
+{"level":"info","message":"🚀 Initializing Unified Security Framework...","service":"unified-security-framework","timestamp":"2025-10-12T12:01:44.258Z"}
+{"level":"info","message":"✅ DATABASE module started","service":"unified-security-framework","timestamp":"2025-10-12T12:01:44.276Z"}
+{"level":"info","message":"✅ TUNNELS module started","service":"unified-security-framework","timestamp":"2025-10-12T12:01:44.278Z"}
+{"level":"info","message":"✅ C2 module started","service":"unified-security-framework","timestamp":"2025-10-12T12:01:44.337Z"}
+{"level":"info","message":"✅ PHISHING module started","service":"unified-security-framework","timestamp":"2025-10-12T12:01:44.348Z"}
+{"level":"info","message":"✅ SOCIAL module started","service":"unified-security-framework","timestamp":"2025-10-12T12:01:44.351Z"}
+{"level":"info","message":"✅ OSINT module started","service":"unified-security-framework","timestamp":"2025-10-12T12:01:44.352Z"}
+{"level":"info","message":"✅ STEGANOGRAPHY module started","service":"unified-security-framework","timestamp":"2025-10-12T12:01:44.352Z"}
+{"level":"info","message":"🤖 AI Monitor started","service":"unified-security-framework","timestamp":"2025-10-12T12:01:44.358Z"}
+{"level":"info","message":"🌐 Framework running on http://localhost:9080","service":"unified-security-framework","timestamp":"2025-10-12T12:01:44.363Z"}
+{"level":"info","message":"🎉 Framework initialization complete!","service":"unified-security-framework","timestamp":"2025-10-12T12:01:44.363Z"}
+{"level":"info","message":"🛑 Shutting down framework...","service":"unified-security-framework","timestamp":"2025-10-12T12:02:24.393Z"}
+{"level":"info","message":"✅ DATABASE module stopped","service":"unified-security-framework","timestamp":"2025-10-12T12:02:24.394Z"}
+{"level":"info","message":"✅ TUNNELS module stopped","service":"unified-security-framework","timestamp":"2025-10-12T12:02:24.394Z"}
+{"level":"info","message":"✅ C2 module stopped","service":"unified-security-framework","timestamp":"2025-10-12T12:02:24.394Z"}
+{"level":"info","message":"✅ PHISHING module stopped","service":"unified-security-framework","timestamp":"2025-10-12T12:02:24.395Z"}
+{"level":"info","message":"✅ SOCIAL module stopped","service":"unified-security-framework","timestamp":"2025-10-12T12:02:24.395Z"}
+{"level":"info","message":"✅ OSINT module stopped","service":"unified-security-framework","timestamp":"2025-10-12T12:02:24.395Z"}
+{"level":"info","message":"✅ STEGANOGRAPHY module stopped","service":"unified-security-framework","timestamp":"2025-10-12T12:02:24.395Z"}
+{"level":"info","message":"🚀 Initializing Unified Security Framework...","service":"unified-security-framework","timestamp":"2025-10-12T12:04:50.975Z"}
+{"level":"info","message":"✅ DATABASE module started","service":"unified-security-framework","timestamp":"2025-10-12T12:04:51.002Z"}
+{"level":"info","message":"✅ TUNNELS module started","service":"unified-security-framework","timestamp":"2025-10-12T12:04:51.002Z"}
+{"level":"info","message":"✅ C2 module started","service":"unified-security-framework","timestamp":"2025-10-12T12:04:51.064Z"}
+{"level":"info","message":"✅ PHISHING module started","service":"unified-security-framework","timestamp":"2025-10-12T12:04:51.073Z"}
+{"level":"info","message":"✅ SOCIAL module started","service":"unified-security-framework","timestamp":"2025-10-12T12:04:51.074Z"}
+{"level":"info","message":"✅ OSINT module started","service":"unified-security-framework","timestamp":"2025-10-12T12:04:51.075Z"}
+{"level":"info","message":"✅ STEGANOGRAPHY module started","service":"unified-security-framework","timestamp":"2025-10-12T12:04:51.075Z"}
+{"level":"info","message":"🤖 AI Monitor started","service":"unified-security-framework","timestamp":"2025-10-12T12:04:51.083Z"}
+{"level":"info","message":"🌐 Framework running on http://localhost:9080","service":"unified-security-framework","timestamp":"2025-10-12T12:04:51.086Z"}
+{"level":"info","message":"🎉 Framework initialization complete!","service":"unified-security-framework","timestamp":"2025-10-12T12:04:51.086Z"}
+{"level":"info","message":"🛑 Shutting down framework...","service":"unified-security-framework","timestamp":"2025-10-12T12:04:53.312Z"}
+{"level":"info","message":"✅ DATABASE module stopped","service":"unified-security-framework","timestamp":"2025-10-12T12:04:53.318Z"}
+{"level":"info","message":"✅ TUNNELS module stopped","service":"unified-security-framework","timestamp":"2025-10-12T12:04:53.328Z"}
+{"level":"info","message":"✅ C2 module stopped","service":"unified-security-framework","timestamp":"2025-10-12T12:04:53.329Z"}
+{"level":"info","message":"✅ PHISHING module stopped","service":"unified-security-framework","timestamp":"2025-10-12T12:04:53.331Z"}
+{"level":"info","message":"✅ SOCIAL module stopped","service":"unified-security-framework","timestamp":"2025-10-12T12:04:53.331Z"}
+{"level":"info","message":"✅ OSINT module stopped","service":"unified-security-framework","timestamp":"2025-10-12T12:04:53.332Z"}
+{"level":"info","message":"✅ STEGANOGRAPHY module stopped","service":"unified-security-framework","timestamp":"2025-10-12T12:04:53.332Z"}
+{"level":"info","message":"🚀 Initializing Unified Security Framework...","service":"unified-security-framework","timestamp":"2025-10-12T12:07:39.835Z"}
+{"level":"info","message":"✅ DATABASE module started","service":"unified-security-framework","timestamp":"2025-10-12T12:07:39.844Z"}
+{"level":"info","message":"✅ TUNNELS module started","service":"unified-security-framework","timestamp":"2025-10-12T12:07:39.844Z"}
+{"level":"info","message":"✅ C2 module started","service":"unified-security-framework","timestamp":"2025-10-12T12:07:39.907Z"}
+{"level":"info","message":"✅ PHISHING module started","service":"unified-security-framework","timestamp":"2025-10-12T12:07:39.913Z"}
+{"level":"info","message":"✅ SOCIAL module started","service":"unified-security-framework","timestamp":"2025-10-12T12:07:39.914Z"}
+{"level":"info","message":"✅ OSINT module started","service":"unified-security-framework","timestamp":"2025-10-12T12:07:39.914Z"}
+{"level":"info","message":"✅ STEGANOGRAPHY module started","service":"unified-security-framework","timestamp":"2025-10-12T12:07:39.914Z"}
+{"level":"info","message":"🤖 AI Monitor started","service":"unified-security-framework","timestamp":"2025-10-12T12:07:39.920Z"}
+{"level":"info","message":"🌐 Framework running on http://localhost:9080","service":"unified-security-framework","timestamp":"2025-10-12T12:07:39.922Z"}
+{"level":"info","message":"🎉 Framework initialization complete!","service":"unified-security-framework","timestamp":"2025-10-12T12:07:39.923Z"}
+{"level":"info","message":"🛑 Shutting down framework...","service":"unified-security-framework","timestamp":"2025-10-12T12:07:42.182Z"}
+{"level":"info","message":"✅ DATABASE module stopped","service":"unified-security-framework","timestamp":"2025-10-12T12:07:42.183Z"}
+{"level":"info","message":"✅ TUNNELS module stopped","service":"unified-security-framework","timestamp":"2025-10-12T12:07:42.184Z"}
+{"level":"info","message":"✅ C2 module stopped","service":"unified-security-framework","timestamp":"2025-10-12T12:07:42.184Z"}
+{"level":"info","message":"✅ PHISHING module stopped","service":"unified-security-framework","timestamp":"2025-10-12T12:07:42.184Z"}
+{"level":"info","message":"✅ SOCIAL module stopped","service":"unified-security-framework","timestamp":"2025-10-12T12:07:42.185Z"}
+{"level":"info","message":"✅ OSINT module stopped","service":"unified-security-framework","timestamp":"2025-10-12T12:07:42.185Z"}
+{"level":"info","message":"✅ STEGANOGRAPHY module stopped","service":"unified-security-framework","timestamp":"2025-10-12T12:07:42.185Z"}
