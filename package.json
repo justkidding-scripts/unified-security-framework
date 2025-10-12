@@ -42,7 +42,7 @@
     "winston": "^3.11.0",
     "ollama": "^0.5.0",
     "openai": "^4.20.0",
-    "nodemailer": "^6.9.8",
+    "nodemailer": "^7.0.7",
     "sharp": "^0.32.6",
     "sqlite3": "^5.1.6",
     "bcrypt": "^5.1.1",
