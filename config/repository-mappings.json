@@ -1,73 +1,73 @@
 {
-  "repositories": [
-    {
-      "name": "Main-C2-Framework",
-      "destination": "frameworks/c2/Main-C2-Framework",
-      "description": "Comprehensive C2 infrastructure with Empire, Starkiller, and deployment automation",
-      "integrated": true,
-      "lastUpdated": "2025-10-12T12:00:28.562Z"
-    },
-    {
-      "name": "advanced-steganography-phishing",
-      "destination": "frameworks/stego/advanced-steganography-phishing",
-      "description": "Advanced steganography and phishing payload distribution platform",
-      "integrated": true,
-      "lastUpdated": "2025-10-12T12:00:28.562Z"
-    },
-    {
-      "name": "social-engineering-framework",
-      "destination": "frameworks/social/social-engineering-framework",
-      "description": "Enterprise-Grade Unified Red Team Social Engineering Toolkit",
-      "integrated": true,
-      "lastUpdated": "2025-10-12T12:00:28.562Z"
-    },
-    {
-      "name": "offensive-tools-launcher",
-      "destination": "gui/offensive-tools-launcher",
-      "description": "Professional GUI launcher for offensive security tools",
-      "integrated": true,
-      "lastUpdated": "2025-10-12T12:00:28.562Z"
-    },
-    {
-      "name": "FREE-LLM-API",
-      "destination": "frameworks/llm/FREE-LLM-API",
-      "description": "Complete AI Assistant with Warp Integration - Free LLM API",
-      "integrated": true,
-      "lastUpdated": "2025-10-12T12:00:28.562Z"
-    },
-    {
-      "name": "empire-launcher",
-      "destination": "frameworks/c2/empire-launcher",
-      "description": "Empire C2 Framework Launcher with GUI interface",
-      "integrated": true,
-      "lastUpdated": "2025-10-12T12:00:28.563Z"
-    }
-  ],
-  "integrationPaths": {
-    "c2": [
-      "frameworks/c2/Main-C2-Framework",
-      "frameworks/c2/empire-launcher"
-    ],
-    "phishing": [
-      "frameworks/stego/advanced-steganography-phishing"
-    ],
-    "social": [
-      "frameworks/social/social-engineering-framework"
-    ],
-    "gui": [
-      "gui/offensive-tools-launcher"
-    ],
-    "llm": [
-      "frameworks/llm/FREE-LLM-API"
-    ]
-  },
-  "launchCommands": {
-    "Main-C2-Framework": "cd frameworks/c2/Main-C2-Framework && ./setup-complete-system.sh",
-    "advanced-steganography-phishing": "cd frameworks/stego/advanced-steganography-phishing && ./setup-complete-system.sh",
-    "social-engineering-framework": "cd frameworks/social/social-engineering-framework && python3 launcher/se_launcher.py",
-    "offensive-tools-launcher": "cd gui/offensive-tools-launcher && python3 tools-launcher.py",
-    "FREE-LLM-API": "cd frameworks/llm/FREE-LLM-API && ./launch.sh",
-    "empire-launcher": "cd frameworks/c2/empire-launcher && python3 empire_launcher.py"
-  },
-  "createdAt": "2025-10-12T12:00:28.563Z"
+ "repositories": [
+ {
+ "name": "Main-C2-Framework",
+ "destination": "frameworks/c2/Main-C2-Framework",
+ "description": "Comprehensive C2 infrastructure with Empire, Starkiller, and deployment automation",
+ "integrated": true,
+ "lastUpdated": "2025-10-12T1228.562Z"
+ },
+ {
+ "name": "advanced-steganography-phishing",
+ "destination": "frameworks/stego/advanced-steganography-phishing",
+ "description": "Advanced steganography and phishing payload distribution platform",
+ "integrated": true,
+ "lastUpdated": "2025-10-12T1228.562Z"
+ },
+ {
+ "name": "social-engineering-framework",
+ "destination": "frameworks/social/social-engineering-framework",
+ "description": "Enterprise-Grade Unified Social Engineering Toolkit",
+ "integrated": true,
+ "lastUpdated": "2025-10-12T1228.562Z"
+ },
+ {
+ "name": "offensive-tools-launcher",
+ "destination": "gui/offensive-tools-launcher",
+ "description": "Professional GUI launcher for offensive security tools",
+ "integrated": true,
+ "lastUpdated": "2025-10-12T1228.562Z"
+ },
+ {
+ "name": "FREE-LLM-API",
+ "destination": "frameworks/llm/FREE-LLM-API",
+ "description": "Complete AI Assistant with Warp Integration - Free LLM API",
+ "integrated": true,
+ "lastUpdated": "2025-10-12T1228.562Z"
+ },
+ {
+ "name": "empire-launcher",
+ "destination": "frameworks/c2/empire-launcher",
+ "description": "Empire C2 Framework Launcher with GUI interface",
+ "integrated": true,
+ "lastUpdated": "2025-10-12T1228.563Z"
+ }
+ ],
+ "integrationPaths": {
+ "c2": [
+ "frameworks/c2/Main-C2-Framework",
+ "frameworks/c2/empire-launcher"
+ ],
+ "phishing": [
+ "frameworks/stego/advanced-steganography-phishing"
+ ],
+ "social": [
+ "frameworks/social/social-engineering-framework"
+ ],
+ "gui": [
+ "gui/offensive-tools-launcher"
+ ],
+ "llm": [
+ "frameworks/llm/FREE-LLM-API"
+ ]
+ },
+ "launchCommands": {
+ "Main-C2-Framework": "cd frameworks/c2/Main-C2-Framework && ./setup-complete-system.sh",
+ "advanced-steganography-phishing": "cd frameworks/stego/advanced-steganography-phishing && ./setup-complete-system.sh",
+ "social-engineering-framework": "cd frameworks/social/social-engineering-framework && python3 launcher/se_launcher.py",
+ "offensive-tools-launcher": "cd gui/offensive-tools-launcher && python3 tools-launcher.py",
+ "FREE-LLM-API": "cd frameworks/llm/FREE-LLM-API && ./launch.sh",
+ "empire-launcher": "cd frameworks/c2/empire-launcher && python3 empire_launcher.py"
+ },
+ "createdAt": "2025-10-12T1228.563Z"
 }
