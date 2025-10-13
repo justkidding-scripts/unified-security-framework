@@ -1,36 +1,36 @@
 {
-  "contexts": {
-    "c2": {
-      "totalActivities": 1,
-      "lastActivity": "2025-10-12T12:01:44.278Z",
-      "patterns": {},
-      "riskProfile": "low"
-    },
-    "phishing": {
-      "totalActivities": 1,
-      "lastActivity": "2025-10-12T12:01:44.337Z",
-      "patterns": {},
-      "riskProfile": "low"
-    },
-    "social": {
-      "totalActivities": 1,
-      "lastActivity": "2025-10-12T12:01:44.351Z",
-      "patterns": {},
-      "riskProfile": "low"
-    },
-    "osint": {
-      "totalActivities": 1,
-      "lastActivity": "2025-10-12T12:01:44.351Z",
-      "patterns": {},
-      "riskProfile": "low"
-    },
-    "steganography": {
-      "totalActivities": 1,
-      "lastActivity": "2025-10-12T12:01:44.352Z",
-      "patterns": {},
-      "riskProfile": "low"
-    }
-  },
-  "learningData": {},
-  "lastSaved": "2025-10-12T12:14:16.917Z"
+ "contexts": {
+ "c2": {
+ "totalActivities": 1,
+ "lastActivity": "2025-10-12T1244.278Z",
+ "patterns": {},
+ "riskProfile": "low"
+ },
+ "phishing": {
+ "totalActivities": 1,
+ "lastActivity": "2025-10-12T1244.337Z",
+ "patterns": {},
+ "riskProfile": "low"
+ },
+ "social": {
+ "totalActivities": 1,
+ "lastActivity": "2025-10-12T1244.351Z",
+ "patterns": {},
+ "riskProfile": "low"
+ },
+ "osint": {
+ "totalActivities": 1,
+ "lastActivity": "2025-10-12T1244.351Z",
+ "patterns": {},
+ "riskProfile": "low"
+ },
+ "steganography": {
+ "totalActivities": 1,
+ "lastActivity": "2025-10-12T1244.352Z",
+ "patterns": {},
+ "riskProfile": "low"
+ }
+ },
+ "learningData": {},
+ "lastSaved": "2025-10-12T1216.917Z"
 }
